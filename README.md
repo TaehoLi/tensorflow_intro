@@ -1,5 +1,6 @@
 # Introduction of Tensorflow
-Lecture from  SeoKyeong University
+Lecture from  
+SeoKyeong University
 
 Department of Computer Engineering
 
