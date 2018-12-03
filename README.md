@@ -1,5 +1,5 @@
 # Introduction of Tensorflow
-Lecture from
+Lecture from\n
 SeoKyeong University
 
 Department of Computer Engineering
